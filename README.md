@@ -1,25 +1,27 @@
 # 📊 Sektöre Göre Göreli Hisse Performans Analizi
 
-Bu projede hisse fiyatları yalnızca mutlak değerleriyle değil,
-sektör ortalamalarına göre değerlendirilmiştir.
+Bu projede şirket performansı yalnız fiyat üzerinden değil, sektör ortalamalarına göre analiz edilmiştir.
 
-## 🎯 Amaç
-- Şirket performansını sektör ortalamasıyla karşılaştırmak
-- Göreli fiyat metriği üretmek
-- Trend davranışını hareketli ortalamalar ile analiz etmek
+## 🚀 Amaç
+- Sektör bazlı karşılaştırma
+- Göreli fiyat analizi
+- Trend tespiti
+- Veri dönüşümü ve feature engineering
 
-## 🔧 Kullanılan Teknolojiler
+## 🧰 Kullanılan Teknolojiler
 - Python
 - Pandas
 - Jupyter Notebook
 
 ## 📈 Yapılan Analizler
-- Veri temizleme ve dönüşüm
-- Sektör bazlı KPI hesaplama
-- Göreli fiyat analizi
-- Trend (Moving Average) analizi
+- Veri temizleme
+- Sektör ortalamaları
+- Relative price hesaplama
+- Volume share analizi
+- Moving average trend analizi
 
-## 📂 Notebook
-Proje notebooku:
+## 📂 Proje Dosyası
+`sector-relative-stock-analysis.ipynb`
 
-➡️ `sector-relative-stock-analysis.ipynb`
+## 👤 Author
+Efe Yurdusev — Statistics Student & Data Science Enthusiast
